@@ -61,6 +61,6 @@ Once the server is running, it will start on:
 
 ---
 
-Created with ❤️ by [Your Name Here]
+Created with ❤️ by William Majanja
 # JackTracker-UI
 # JackTracker-UI
