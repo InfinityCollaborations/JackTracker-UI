@@ -1,0 +1,6 @@
+
+{
+  "name": "JackTracker UI",
+  "description": "JackTracker UI: A frontend concept for an application that would use spotDL and yt-dlp to download Spotify tracks, albums, playlists, or artist discographies. This is a UI demonstration and requires a backend for actual download functionality.",
+  "requestFramePermissions": []
+}

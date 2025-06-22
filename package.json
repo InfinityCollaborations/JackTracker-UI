@@ -1,0 +1,29 @@
+{
+  "name": "jacktracker-backend",
+  "version": "1.0.0",
+  "description": "Backend for JackTracker UI to download Spotify content.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "archiver": "^7.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tmp": "^0.2.3"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "nodemon": "^3.1.0",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
